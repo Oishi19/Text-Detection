@@ -1,4 +1,4 @@
-# Text-Detection
+# Text Detection
 Text Detection from Image
 
 ## Steps:
